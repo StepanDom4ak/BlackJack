@@ -14,17 +14,21 @@ namespace BlackJackService
         void EnterGame(string name);
 
         [OperationContract]
-        void ExitGame(string name);
+        void ExitGame(int playerId);
+
+        [OperationContract]
+        void Ready(int playerId);
+
+        [OperationContract]
+        void Pass(int playerId);
+
+        [OperationContract]
+        Card GiveCard(int playerId);
+
     }
     public interface IMyCallback
     {
         [OperationContract]
-        Card GiveCard(int playerId);
-
-        [OperationContract]
-        bool IsReady(int playerId);
-
-        [OperationContract]
-        void Pass(int playerId);
+        void ShowCard(Card card);
     }
 }
