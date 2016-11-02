@@ -1,0 +1,5 @@
+c:\users\stepa\onedrive\documents\visual studio 2015\Projects\BlackJackService\BlackJackService\bin\Debug\BlackJackService.dll.config
+c:\users\stepa\onedrive\documents\visual studio 2015\Projects\BlackJackService\BlackJackService\bin\Debug\BlackJackService.dll
+c:\users\stepa\onedrive\documents\visual studio 2015\Projects\BlackJackService\BlackJackService\bin\Debug\BlackJackService.pdb
+c:\users\stepa\onedrive\documents\visual studio 2015\Projects\BlackJackService\BlackJackService\obj\Debug\BlackJackService.dll
+c:\users\stepa\onedrive\documents\visual studio 2015\Projects\BlackJackService\BlackJackService\obj\Debug\BlackJackService.pdb
